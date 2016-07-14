@@ -50,10 +50,12 @@ var StepConnector = function StepConnector(props, context) {
     styles.line.borderTopStyle = 'solid';
     styles.line.borderTopWidth = 1;
   } else if (stepper.orientation === 'vertical') {
-    styles.wrapper.marginLeft = 14 + 11; // padding + 1/2 icon
+    styles.wrapper.marginLeft = 22; // padding + 1/2 icon
+    styles.wrapper.marginTop = -8;
+    styles.wrapper.marginBottom = 6;
     styles.line.borderLeftStyle = 'solid';
     styles.line.borderLeftWidth = 1;
-    styles.line.minHeight = 8;
+    styles.line.minHeight = 18;
   }
 
   var prepareStyles = muiTheme.prepareStyles;
