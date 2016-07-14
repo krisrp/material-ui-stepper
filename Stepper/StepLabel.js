@@ -18,11 +18,11 @@ var _react = require('react');
 
 var _react2 = _interopRequireDefault(_react);
 
-var _checkCircle = require('../svg-icons/action/check-circle');
+var _checkCircle = require('material-ui/svg-icons/action/check-circle');
 
 var _checkCircle2 = _interopRequireDefault(_checkCircle);
 
-var _SvgIcon = require('../SvgIcon');
+var _SvgIcon = require('material-ui/SvgIcon');
 
 var _SvgIcon2 = _interopRequireDefault(_SvgIcon);
 

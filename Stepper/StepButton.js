@@ -16,11 +16,11 @@ var _react = require('react');
 
 var _react2 = _interopRequireDefault(_react);
 
-var _transitions = require('../styles/transitions');
+var _transitions = require('material-ui/styles/transitions');
 
 var _transitions2 = _interopRequireDefault(_transitions);
 
-var _EnhancedButton = require('../internal/EnhancedButton');
+var _EnhancedButton = require('material-ui/internal/EnhancedButton');
 
 var _EnhancedButton2 = _interopRequireDefault(_EnhancedButton);
 

@@ -16,7 +16,7 @@ var _react = require('react');
 
 var _react2 = _interopRequireDefault(_react);
 
-var _ExpandTransition = require('../internal/ExpandTransition');
+var _ExpandTransition = require('material-ui/internal/ExpandTransition');
 
 var _ExpandTransition2 = _interopRequireDefault(_ExpandTransition);
 
