@@ -53,7 +53,7 @@ var StepConnector = function StepConnector(props, context) {
     styles.wrapper.marginLeft = 14 + 11; // padding + 1/2 icon
     styles.line.borderLeftStyle = 'solid';
     styles.line.borderLeftWidth = 1;
-    styles.line.minHeight = 28;
+    styles.line.minHeight = 8;
   }
 
   var prepareStyles = muiTheme.prepareStyles;
